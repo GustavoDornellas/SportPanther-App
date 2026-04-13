@@ -50,12 +50,12 @@ Project developed as a Final Course Project, focusing on social impact through t
 
 ### 🇧🇷
 
-© 2026 Gustavo Dornellas. Todos os direitos reservados.
+© 2022 Gustavo Dornellas, Bren-o, GabrielBismark. Todos os direitos reservados.
 Este projeto não pode ser copiado, modificado ou utilizado sem autorização prévia.
 
 ### 🇺🇸
 
-© 2026 Gustavo Dornellas. All rights reserved.
+© 2022 Gustavo Dornellas, Bren-o, GabrielBismark. All rights reserved.
 This project may not be copied, modified, or used without prior authorization.
 
 ---

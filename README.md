@@ -12,55 +12,58 @@ O **SportPanther App** é uma aplicação desenvolvida como Trabalho de Conclus�
 
 ## 🚀 Funcionalidades | Features
 
-* 👥 Conexão entre jogadoras | Connection between players
-* 📍 Localização de espaços públicos | Location of public spaces
-* 📢 Incentivo à participação feminina | Encouragement of women's participation
-* 🤝 Promoção de inclusão e acessibilidade | Promotion of inclusion and accessibility
+### 🇧🇷 Funcionalidades
+
+* 👥 Conexão entre jogadoras
+* 📍 Localização de espaços públicos
+* 📢 Incentivo à participação feminina
+* 🤝 Promoção de inclusão e acessibilidade 
+
+### 🇺🇸 Features
+
+* 👥 Connection between players
+* 📍 Location of public spaces
+* 📢 Encouragement of women's participation
+* 🤝 Promotion of inclusion and accessibility
 
 ---
 
 ## 🛠️ Tecnologias | Technologies
 
-* (adicione aqui | add here: HTML, CSS, JavaScript, etc.)
+* JavaScript
 
 ---
 
-## ⚙️ Como executar | How to Run
+## 📚 Contexto | Context
 
-```bash id="h3z6y3"
-# Clone o repositório | Clone the repository
-git clone https://github.com/GustavoDornellas/SportPanther-App.git
-
-# Entre na pasta | Enter the folder
-cd SportPanther-App
-
-# Execute o projeto | Run the project
-# (adicione o comando | add command: npm install / npm start)
-```
-
----
-
-## 📚 Contexto Acadêmico | Academic Context
+### 🇧🇷
 
 Projeto desenvolvido como Trabalho de Conclusão de Curso, com foco em impacto social por meio da tecnologia.
+
+### 🇺🇸
+
 Project developed as a Final Course Project, focusing on social impact through technology.
 
 ---
 
 ## 🔒 Licença | License
 
-© 2022 Gustavo Dornellas. Todos os direitos reservados.
-© 2022 Gustavo Dornellas. All rights reserved.
+### 🇧🇷
 
-Este projeto não pode ser utilizado sem autorização.
-This project may not be used without prior authorization.
+© 2026 Gustavo Dornellas. Todos os direitos reservados.
+Este projeto não pode ser copiado, modificado ou utilizado sem autorização prévia.
+
+### 🇺🇸
+
+© 2026 Gustavo Dornellas. All rights reserved.
+This project may not be copied, modified, or used without prior authorization.
 
 ---
 
 ## 👨‍💻 Autor | Author
 
-**Gustavo Dornellas**
-**Bren-o**
-**GabrielBismark**
+* **Gustavo Dornellas**
+* **Bren-o**
+* **GabrielBismark**
 
 ---

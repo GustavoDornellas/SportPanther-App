@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "SportPanther",
+    "slug": "app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/img/icone.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/img/adaptive_icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#352465"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/img/adaptive_icon.png",
+        "backgroundColor": "#352465"
+      },
+      "package": "com.bismarkkkk.app",
+      "permissions": [
+        "android.permission.RECORD_AUDIO"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos to let you share them with your friends."
+        }
+      ]
+    ]
+  }
+}

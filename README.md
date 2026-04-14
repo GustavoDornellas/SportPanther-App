@@ -108,3 +108,5 @@ Este projeto proporcionou experiência prática em:
 ## 👨‍💻 Autor
 
 Gustavo Dornellas
+Bren-o
+GabrielBismark
